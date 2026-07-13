@@ -39,35 +39,6 @@ This project is a joint initiative between:
 
 Together, we strive to make our school a more inclusive environment for everyone.
 
----
-
-## Repository Structure
-
-```
-Braille-Signage/
-│
-├── Prototype-1/
-│   ├── CAD/
-│   ├── STL/
-│   ├── Images/
-│   └── README.md
-│
-├── Prototype-2/
-│   ├── CAD/
-│   ├── STL/
-│   ├── Images/
-│   └── README.md
-│
-├── Documentation/
-│   ├── Research/
-│   ├── Accessibility/
-│   └── Design Process/
-│
-└── README.md
-```
-
----
-
 ## Prototype 1
 
 The first prototype focused on establishing a functional proof of concept.
